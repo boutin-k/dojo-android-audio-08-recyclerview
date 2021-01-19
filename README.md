@@ -96,3 +96,6 @@ Comme les Fragments n'ont plus de secret pour nous, nous allons créer un fragme
 ## Documentation
 * [Create a List with RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 * [RecyclerView](https://developer.android.com/reference/android/support/v7/widget/RecyclerView)
+
+## TD suivant
+* [Playlist](https://github.com/boutin-k/dojo-android-audio-09-playlist)
